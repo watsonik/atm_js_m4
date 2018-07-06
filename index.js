@@ -1,14 +1,5 @@
 'use strict';
 
-// class someClass {
-//     doSomething() {
-//         return 'I did something !';
-//     }
-//
-//     oneMoreThingToDo() {
-//         return 'I did something else !';
-//     }
-// }
 class calculator {
     add(a, b) {
         return a + b;
@@ -19,5 +10,4 @@ class calculator {
     }
 }
 
-// module.exports = someClass;
 module.exports = calculator;
