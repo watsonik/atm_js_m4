@@ -21,7 +21,7 @@
     "gulp-jasmine": "^2.3.0",
     "gulp-util": "^3.0.8",
     "handlebars": "^4.1.2",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "js-yaml": "^3.13.1",
     "liftoff": "^3.1.0",
     "lodash.template": "^4.5.0",
